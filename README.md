@@ -1,14 +1,14 @@
-## AnalyzeNoShowDoctorAppts
+# AnalyzeNoShowDoctorAppts
 
-# Purpose:
+## Purpose:
 Exploring doctor appointment data to understand which factors determine likelihood of showing up to appointment 
 
-# Relationships Explored
+## Relationships Explored
 - No-Show vs. Gender
 - No-Show vs. (Schedule Date to Appointment Date time frame)
 - No-Show vs. (Affiliation with Welfare Program)
 
-# Conclusions/Follow-Ups
+## Conclusions/Follow-Ups
 
 My exploration in this dataset has led me to the following conclusions (conclusions for this dataset only, not for the entire population):
 
