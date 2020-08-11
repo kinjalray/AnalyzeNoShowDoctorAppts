@@ -19,7 +19,7 @@ My exploration in this dataset has led me to the following conclusions (conclusi
 - Those who make appointments ahead of time are more likely to show up
 - If the patient is on welfare, there is a slightly higher likelihood that they will not show up.
 
-###Considerations
+### Considerations
 
 I explored a few of many possible relationships in the dataset. For further analysis, it could be informative to look at the relationship between Neighborhood and No-show, SMS-Received and No-show, etc.
 
