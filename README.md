@@ -1,7 +1,7 @@
 # AnalyzeNoShowDoctorAppts
 
 ## Purpose:
-Exploring doctor appointment data to understand which factors determine likelihood of showing up to appointment
+Exploring doctor appointment data to understand which factors determine likelihood of the patient showing up to appointment
 
 **Data Source:** https://www.kaggle.com/joniarroba/noshowappointments
 
@@ -21,11 +21,11 @@ My exploration in this dataset has led me to the following conclusions (conclusi
 
 ###Considerations
 
-I only explored a few variables in the dataset. For further analysis, it would be important to look at the relationship between Neighborhood and No-show, SMS-Received and No-show, etc.
+I explored a few of many possible relationships in the dataset. For further analysis, it could be informative to look at the relationship between Neighborhood and No-show, SMS-Received and No-show, etc.
 
-Neighborhood and No-show The location of a single hospital in a particularly inconvenient, or run-down area could skew results.
+Neighborhood and No-show: The location of a single hospital in a particularly inconvenient, or run-down area could skew results.
 
-SMS-Received and No-show Effect of receiving an SMS reminder regarding the appointment could be stronger than the relationships I explored above.
+SMS-Received and No-show: Effect of receiving an SMS reminder regarding the appointment could be stronger than the relationships I explored above.
 
 ###Further Steps
 
