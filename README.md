@@ -27,6 +27,6 @@ Neighborhood and No-show: The location of a single hospital in a particularly in
 
 SMS-Received and No-show: Effect of receiving an SMS reminder regarding the appointment could be stronger than the relationships I explored above.
 
-###Further Steps
+### Further Steps
 
 Next steps would include bootstrap sampling and hypothesis testing to obtain sufficient evidence in concluding whether the observations are statistically significant regarding the population.
